@@ -1,16 +1,39 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+  <br><br>
+  <samp>
+    I'm Vagner Bohm :wave:
+    <br><br>
+    I work as a Python 💻 ETL integrator and i'm also a student!
+    <br><br>
+  </samp>
+</p>
+<br>
 
-<!--
-**vagnerpelais/vagnerpelais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Github stats :bar_chart:</h2>
 
-Here are some ideas to get you started:
+<h4 align="center">Visitor's count :eyes:</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><img src="https://profile-counter.glitch.me/{vagnerpelais}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnerpelais&langs_count=10&theme=tokyonight&layout=compact" alt="vagnerpelais :: Top Langs" /></p>
+
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vagnerpelais&show_icons=true&theme=synthwave" alt="vagnerpelais :: Profile Stats" /></p>
+
+
+<h4 align="center">I'm currently...</h4>
+
+<h5 align="center">Improving my Python skills</h5>
+<h5 align="center">Learning to develop Web Scraping scripts</h5>
+<h5 align="center">Learning to develop API's</h5>
+
+
+<br/><br/>
+<p align="center">
+  Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
+</p>
