@@ -32,6 +32,17 @@
 <h5 align="center">Learning to develop Web Scraping scripts</h5>
 <h5 align="center">Learning to develop API's</h5>
 
+<br/>
+<p align="center"> 
+  <i> You can find me in... :incoming_envelope: </i>
+  <br/>
+  <a href="https://www.linkedin.com/in/vagner-bohm-6b47561a3/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Vagner Bohm's LinkedIn Profile" height="30" width="30">
+  </a>
+</p>
+
+
+
 
 <br/><br/>
 <p align="center">
