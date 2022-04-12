@@ -4,7 +4,8 @@
   <samp>
     I'm Vagner Bohm :wave:
     <br><br>
-    I work as a Python 💻 ETL integrator and i'm also a student!
+    I love new tech's and new challenges!
+    We're always learning
     <br><br>
   </samp>
 </p>
