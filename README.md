@@ -25,13 +25,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vagnerpelais&show_icons=true&theme=synthwave" alt="vagnerpelais :: Profile Stats" /></p>
 
-
-<h4 align="center">I'm currently...</h4>
-
-<h5 align="center">Improving my Python skills</h5>
-<h5 align="center">Learning to develop Web Scraping scripts</h5>
-<h5 align="center">Learning to develop API's</h5>
-
 <br/>
 <p align="center"> 
   <i> You can find me in... :incoming_envelope: </i>
